@@ -10,7 +10,7 @@ This project was implemented using C# and Visual Studio.
 
 ## Getting Started
 
-The interpreter will look for *.dll XML files in a 'demos' subdirectory in which the executable is located. Several examples are provided.
+The interpreter will look for *.ddl XML files in a 'demos' subdirectory in which the executable is located. Several examples are provided.
 
 ## Supported Elements
 - Grid
